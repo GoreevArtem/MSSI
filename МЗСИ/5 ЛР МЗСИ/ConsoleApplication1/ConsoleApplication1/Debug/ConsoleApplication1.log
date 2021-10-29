@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,16): warning C4244: аргумент: преобразование "LL" в "int", возможна потеря данных
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,13): warning C4244: аргумент: преобразование "LL" в "int", возможна потеря данных
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(126,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(129,33): warning C4244: аргумент: преобразование "LL" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(130,29): warning C4244: аргумент: преобразование "LL" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\artio\Desktop\Политех\ТП-МЗСИ\5 ЛР МЗСИ\ConsoleApplication1\Debug\ConsoleApplication1.exe
